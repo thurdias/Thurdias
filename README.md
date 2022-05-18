@@ -20,7 +20,7 @@
   <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Arthur-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> #####SQLDeveloper
+   <img align="center" alt="Arthur-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> ##### SQLDeveloper
   <img align="right" alt="Arthur-pic" height="150" style="border-radius:50px;" src="https://www.linkpicture.com/q/IMG_20220513_130233088.jpg">
 </div>
   <h4 align="right">My dog *-*</h4>
