@@ -28,7 +28,7 @@
   
 </div>
   <h4 align="right">My dog *-*</h4>
-  
+  <img align="right" alt="Arthur-pic" height="150" style="border-radius:50px;" src="https://www.linkpicture.com/q/IMG_20220513_130233088.jpg">
   ##
  
 <div> 
