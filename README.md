@@ -24,12 +24,11 @@
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Arthur-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> 
-  <img align="right" alt="Arthur-pic" height="150" style="border-radius:50px;" src="https://www.linkpicture.com/q/IMG_20220513_130233088.jpg">
   
 </div>
   <h4 align="right">My dog *-*</h4>
   <img align="right" alt="Arthur-pic" height="150" style="border-radius:50px;" src="https://www.linkpicture.com/q/IMG_20220513_130233088.jpg">
-  ##
+##
  
 <div> 
   <a href = "mailto:thurdias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
