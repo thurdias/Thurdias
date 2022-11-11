@@ -2,7 +2,7 @@
 #### I am Arthur Bouças 😄
 
 - 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning Java, Phython, HTML, CSS
+- 🌱 I’m currently learning Java, Phython, HTML, CSS & JavaScript
 - 👯 I’m looking to collaborate on helping everyone to make me feel that im doing the difference in the world
 - 🤔 I’m looking for help with finding my first job 💼
 - 💬 You can ask me about what I am doing with my studies
