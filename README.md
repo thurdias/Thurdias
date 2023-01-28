@@ -1,11 +1,7 @@
-### Hi there 👋 
-#### I am Arthur Bouças 😄
+## Hi there, I'm Arthur Dias and I'm a technology enthusiast
 
-- 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning Java, Phython, HTML, CSS & JavaScript
-- 👨‍💼 I’m looking to collaborate on helping everyone to make me feel that im doing the difference in the world
+- 📚 I’m currently learning Java, Phython, HTML, CSS & JavaScript
 - 🤔 I’m looking for help with finding my first job 💼
-- 💬 You can ask me about what I am doing with my studies
 - ⚡ Fun fact: I love what I am doing
 
 <div align="center">
