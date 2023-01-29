@@ -1,6 +1,6 @@
 ## Hi there, I'm Arthur Dias and I'm a technology enthusiast
 
-- 📚 I’m currently learning Java, Phython, HTML, CSS & JavaScript
+- 📚 I’m currently learning Java, Phython, SQL, PHP, HTML, CSS & JavaScript
 - 🤔 I’m looking for help with finding my first job 💼
 
 <div align="center">
