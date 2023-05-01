@@ -1,7 +1,6 @@
 ## Hi there, I'm Arthur Dias and I'm a technology enthusiast
 
-- 📚 My speciality: Java, C#, Phython, SQL, PHP & JavaScript
-- Technologies: .Net, Flask,  HTML, CSS
+- 💻 My speciality: Java, C# & .Net, Phython & Flask, SQL, PHP, HTML, CSS & JavaScript
 - 🤔 I’m looking for a help for my first job 💼
 
 <div align="center">
