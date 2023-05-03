@@ -1,7 +1,7 @@
 ## Hi there, I'm Arthur Dias and I'm a technology enthusiast
 
 - 💻 My speciality: Java, C# & .Net, Phython & Flask, SQL, PHP, HTML, CSS & JavaScript
-- 🤔 I’m looking for a help for my first job 💼
+- 🤔 I’m trying my best to get my first job 💼
 
 <div align="center">
   <a href="https://github.com/Thurdias">
