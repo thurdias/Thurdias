@@ -16,7 +16,9 @@
   <img align="center" alt="Arthur-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Arthur-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">      |¯_¯¯_¯¯_¯_¯¯_¯_¯¯| My doggo *-* |__¯_¯¯__¯¯_¯¯¯_¯_|
+  <img align="center" alt="Arthur-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Arthur-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> |¯_¯¯_¯¯_¯¯_¯_¯¯| My doggo *-* |__¯_¯_¯¯_¯¯_¯_|
    <img align="right" alt="Mikey" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/271779010336391170/8853bb997b7fd966b63cc264af172d76.webp?size=128">
   </div>
  
