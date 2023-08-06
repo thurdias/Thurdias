@@ -20,7 +20,6 @@
   <img align="center" alt="Arthur-MYSQL" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Arthur-SQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Arthur-dotnet" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Arthur-Csharp" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
    <img align="right" alt="Mikey" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/271779010336391170/8853bb997b7fd966b63cc264af172d76.webp?size=128">
   </div>
  
