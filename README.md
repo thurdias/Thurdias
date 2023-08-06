@@ -18,7 +18,10 @@
   <img align="center" alt="Arthur-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Arthur-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Arthur-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> |¯_¯_¯¯| My doggo *-* |__¯_¯¯|
+  <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt="Arthur-Openshift" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/719px-OpenShift-LogoType.svg.png"> 
+  <img align="center" alt="Arthur-k8s" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"> 
+  <img align="center" alt="Arthur-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"> 
    <img align="right" alt="Mikey" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/271779010336391170/8853bb997b7fd966b63cc264af172d76.webp?size=128">
   </div>
  
@@ -28,7 +31,5 @@
   <a href = "mailto:thurdias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-dias-bouças/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://wa.me/5561982018603" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/thurdias/thurdias/blob/output/github-contribution-grid-snake.svg)
- 
+   
 </div>
