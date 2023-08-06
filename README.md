@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurdias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Openshift" height="55" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1917px-OpenShift-LogoType.svg.png"> 
+  <img align="center" alt="Arthur-Openshift" height="55" width="50" src="https://assets.stickpng.com/images/58481836cef1014c0b5e49a1.png"> 
   <img align="center" alt="Arthur-k8s" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"> 
   <img align="center" alt="Arthur-Ansible" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"> 
   <img align="center" alt="Arthur-Python" height="55" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
