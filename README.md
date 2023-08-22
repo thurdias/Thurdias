@@ -1,8 +1,7 @@
-<div style="width: 1.5em; height: 1.5em;">
-    <img src="https://github.com/thurdias/Thurdias/assets/6502142/7f63c82d-d9cb-49f7-a107-282207e9ce03" style="width: 100%; height: 100%;">
+<div style="display: flex;">
+    <img src="https://github.com/thurdias/Thurdias/assets/6502142/7f63c82d-d9cb-49f7-a107-282207e9ce03" width="32" height="32" style="margin-right: 10px;">
+    <h2>Hi there, I'm Arthur Dias and I'm a technology enthusiast</h2>
 </div>
-<h2>Hi there, I'm Arthur Dias and I'm a technology enthusiast</h2>
-
 
 - 💻 My speciality: Kubernetes, OpenShift, Ansible, Java, C# & .Net, Phython & Flask, SQL, PHP, HTML, CSS & JavaScript
 
