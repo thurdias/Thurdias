@@ -1,5 +1,5 @@
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://github.com/thurdias/Thurdias/assets/6502142/7f63c82d-d9cb-49f7-a107-282207e9ce03)
-## Hi there, I'm Arthur Dias and I'm a technology enthusiast
+<img src="https://github.com/thurdias/Thurdias/assets/6502142/7f63c82d-d9cb-49f7-a107-282207e9ce03" style="width: 1.5em; height: 1.5em;">
+<h2>Hi there, I'm Arthur Dias and I'm a technology enthusiast</h2>
 
 - 💻 My speciality: Kubernetes, OpenShift, Ansible, Java, C# & .Net, Phython & Flask, SQL, PHP, HTML, CSS & JavaScript
 
