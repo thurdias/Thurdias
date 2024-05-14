@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Arthur Dias and I'm a technology enthusiast
 
-- 💻 My speciality: Kubernetes, OpenShift, Ansible, Java, C# & .Net, Phython & Flask, SQL, PHP, HTML, CSS & JavaScript
+- 💻 My speciality: Kubernetes, OpenShift, Ansible, Java, C# & .Net, Phython, SQL, HTML, CSS & JavaScript
 
 <div align="center">
   <a href="https://github.com/Thurdias">
